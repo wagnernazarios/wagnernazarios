@@ -1,7 +1,7 @@
  # Olá, mundo! 🌎 
  ## Eu sou Wagner Nazario.
 
-*Front End Developer jr*
+### *Front End Developer jr*
 
 <div align="center">
   <a href="https://github.com/wagnernazarios">
