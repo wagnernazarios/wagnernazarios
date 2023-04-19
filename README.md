@@ -1,17 +1,16 @@
- # Olá, mundo! 🌎 
- ## Eu sou Wagner Nazario.
-
-### *Front End Developer jr*
-
+<div align="center"> 
+ <h2>Olá, mundo! 🌎 
+ <br>
+ Eu sou Wagner Nazario.</h2>
+ <h3>Eu sou um desenvolvedor front-end Jr, estudando pra me tornar fullstack.</h3>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/wagnernazarios">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  <div align="center">
   <a href="https://github.com/wagnernazarios">
-  <a href="https://git.io/streak-stats"><img height="150em" width="400em" src="https://streak-stats.demolab.com?user=wagnernazarios&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D"/></a>
+  <a href="https://git.io/streak-stats"><img height="200em" width="400em" src="https://streak-stats.demolab.com?user=wagnernazarios&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D"/></a>
   </div>
 <hr>
  <div align="center">
