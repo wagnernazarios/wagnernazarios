@@ -1,7 +1,4 @@
-<div align="center"> 
- <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=3000&pause=1000&color=78CA22&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello+world!;I'm+Wagner+Nazario.;I'm+Front-end+Developer+Jr." alt="Typing SVG" /></a></h1>
-</div>
-<br>
+ <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=3000&pause=1000&color=78CA22&center=true&vCenter=true&width=500&height=100&lines=Hello+world!;I'm+Wagner+Nazario.;I'm+Front-end+Developer+Jr." alt="Typing SVG" /></a></h1>
 <br>
 <div align="center">
   <a href="https://github.com/wagnernazarios">
