@@ -1,8 +1,5 @@
 <div align="center"> 
- <h1>Olá, mundo! 🌎 
- <br>
- Eu sou Wagner Nazario.</h1>
- <h3>Eu sou um desenvolvedor front-end Jr, estudando pra me tornar fullstack.</h3>
+ <h1<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inter&weight=500&size=36&duration=3500&pause=1000&color=F79924&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Wagner+Nazario;Fullstack+Developer+jr;Nice+to+meet+you!" alt="Typing SVG" /></a></h1>
 </div>
 <br>
 <br>
