@@ -1,7 +1,7 @@
 <div align="center"> 
- <h2>Olá, mundo! 🌎 
+ <h1>Olá, mundo! 🌎 
  <br>
- Eu sou Wagner Nazario.</h2>
+ Eu sou Wagner Nazario.</h1>
  <h3>Eu sou um desenvolvedor front-end Jr, estudando pra me tornar fullstack.</h3>
 </div>
 <br>
