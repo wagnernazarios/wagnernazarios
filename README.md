@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=7&theme=dracula"/>
   <a href="https://github.com/wagnernazarios">
-  <a href="https://git.io/streak-stats"><img height="200em" width="400em" src="https://streak-stats.demolab.com?user=wagnernazarios&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D"/></a>
+  <a href="[https://git.io/streak-stats"><img height="200em" width="400em" src="https://streak-stats.demolab.com?user=wagnernazarios&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=wagnernazarios&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)"/></a>
   </div>
 <hr>
  <div align="center">
