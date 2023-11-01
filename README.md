@@ -13,9 +13,9 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" alt="joao-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>         
- <img align="center" alt="wagner-Js" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg">
-  <img align="center" alt="wagner-Js" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+  <img align="center" height="30" alt="wagner-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>         
+ <img align="center" alt="wagner-bootstrap" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg">
+  <img align="center" alt="wagner-php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
   </div>
    
    
