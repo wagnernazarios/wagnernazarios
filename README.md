@@ -2,14 +2,14 @@
 <br>
 <div align="center">
   <a href="https://github.com/wagnernazarios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=7&theme=merko"/>
   <a href="https://github.com/wagnernazarios">
-  <a href="[https://git.io/streak-stats"><img height="200em" width="400em" src="https://streak-stats.demolab.com?user=wagnernazarios&theme=dracula&locale=pt-  br&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=wagnernazarios&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D)"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
   </div>
 <hr>
  <div align="center">
-   <p><strong>Languages and Frameworks</strong></p>
+   <p style="color:green;"><strong>Languages and Frameworks</strong></p>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
