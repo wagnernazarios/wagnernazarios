@@ -2,20 +2,20 @@
 <br>
 <div align="center">
   <a href="https://github.com/wagnernazarios">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=7&theme=merko"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
   <a href="https://github.com/wagnernazarios">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=500" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=1000" alt="GitHub Streak" /></a>
   </div>
 <hr>
  <div align="center">
-   <p style="color:green;"><strong>Languages and Frameworks</strong></p>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" alt="wagner-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>         
- <img align="center" alt="wagner-bootstrap" height="30" width="40" src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg">
-  <img align="center" alt="wagner-php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+   <p ><strong>Languages and Frameworks</strong></p>
+  <img align="center"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="60" alt="wagner-git" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>         
+ <img align="center" alt="wagner-bootstrap" height="60" width="80" src="https://files.brandlogos.net/svg/PjKl3aKXeF/bootstrap-logo-5247297pJQ_brandlogos.net.svg">
+  <img align="center" alt="wagner-php" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
   </div>
    
    
