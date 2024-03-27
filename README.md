@@ -2,10 +2,10 @@
 <br>
 <div align="center">
   <a href="https://github.com/wagnernazarios">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
   <a href="https://github.com/wagnernazarios">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=1000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=820" alt="GitHub Streak" /></a>
   </div>
 <hr>
  <div align="center">
