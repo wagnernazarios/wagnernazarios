@@ -1,14 +1,6 @@
  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=30&duration=3000&pause=1000&color=78CA22&center=true&vCenter=true&width=600&height=180&lines=Hello+world!;I'm+Wagner+Nazario.;I'm+Front-end+Developer+Jr.;Nice+to+meet+you." alt="Typing SVG" /></a></h1>
 <br>
 <div align="center">
-  <a href="https://github.com/wagnernazarios">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wagnernazarios&show_icons=true&theme=merko&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnernazarios&layout=compact&langs_count=5&theme=merko&locale=pt-br"/>
-  <a href="https://github.com/wagnernazarios">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wagnernazarios&theme=merko&locale=pt_BR&card_width=820" alt="GitHub Streak" /></a>
-  </div>
-<hr>
- <div align="center">
    <p ><strong>Languages and Frameworks</strong></p>
   <img align="center"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
